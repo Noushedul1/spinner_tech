@@ -1,0 +1,156 @@
+/* basic setup */
+* {
+     padding: 0;
+     margin: 0;
+     outline: none;
+     box-sizing: border-box;
+}
+
+body {
+     font-family: "Roboto", sans-serif;
+}
+
+/* style for header section start */
+
+/* Style for Header Top */
+
+.header-top i,
+.header-top a,
+.header-top p {
+     color: #0F97D5;
+     font-size: 12px;
+     margin: 0;
+}
+
+.header-top .header-top-item a img {
+     height: 15px;
+     width: 15px;
+}
+
+/* style for header bottom */
+
+.navbar-nav .nav-link {
+     font-size: 16px;
+     padding: 5px;
+}
+
+.navbar-nav li a:hover,
+.navbar-nav li a:active,
+.navbar-nav li a.show {
+     background: #0F97D5 !important;
+     color: white !important;
+     transform: scale(1.02);
+     transition: linear 0.5s !important;
+     -webkit-transition: linear 0.5s !important;
+     -moz-transition: linear 0.5s !important;
+     -ms-transition: linear 0.5s !important;
+     -o-transition: linear 0.5s !important;
+     -webkit-transform: scale(1.02);
+     -moz-transform: scale(1.02);
+     -ms-transform: scale(1.02);
+     -o-transform: scale(1.02);
+}
+
+/* style for navbar toggle button */
+
+.navbar-main .navbar-toggler {
+     background: #0F97D5 !important;
+}
+
+.navbar-main .navbar-toggler span {
+     font-size: 14px;
+}
+
+/* style for header section end */
+
+
+/* style for footer section start */
+
+/* style for footer main section */
+.footer-section {
+     font-size: 14px;
+     color: white;
+     background: #242c42;
+}
+
+.footer-title {
+     color: #1ea4d9;
+     font-size: 20px;
+}
+
+.footer-section ul li {
+     padding: 7px 0;
+}
+
+.footer-section ul li:hover a {
+     color: #24ff5e !important;
+     text-decoration: none;
+     transition: linear 0.5s;
+     -webkit-transition: linear 0.5s;
+     -moz-transition: linear 0.5s;
+     -ms-transition: linear 0.5s;
+     -o-transition: linear 0.5s;
+}
+
+.footer-section ul li i {
+     padding-right: 3px;
+}
+
+/* style for footer bottom */
+
+.footer-bottom {
+     background: #010b40;
+     color: white;
+     padding: 15px 0;
+}
+
+.footer-bottom ul li span {
+     color: #1ea4d9;
+}
+
+.footer-bottom ul li a {
+     color: white;
+     text-decoration: none;
+     padding: 10px;
+}
+
+/* style for copyright */
+
+.copyright {
+     background: #232330;
+     color: white;
+     padding: 5px 0;
+}
+
+.copyright p {
+     font-size: 12px;
+     margin-bottom: 0;
+}
+
+.copyright p a {
+     text-decoration: none;
+}
+
+.copyright .link a {
+     padding: 0 5px;
+     font-size: 25px;
+}
+
+.copyright .link a:hover {
+     color: #24ff5e !important;
+     transition: linear 0.5s;
+     -webkit-transition: linear 0.5s;
+     -moz-transition: linear 0.5s;
+     -ms-transition: linear 0.5s;
+     -o-transition: linear 0.5s;
+}
+
+/* style for footer section end */
+
+/* Style for App Section Start */
+
+.app-section 
+.app-section .app-icon-link i{
+     padding: 10px 0;
+}
+/* Style for App Section End */

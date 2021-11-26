@@ -1,0 +1,397 @@
+@media(max-width: 1200px){
+     .footer-bottom ul li a{
+          font-size: 9px;
+     }
+}
+@media(max-width: 991px){
+     /* ******* Start Services *******  */
+
+     /* start mobile app dev  */
+     .services--section .choose--reason .choose__partners p:last-child {
+       font-size: 1.2rem;
+       color: rgb(99, 99, 99);
+       font-weight: 600;
+     }
+   /* end mobile app dev  */
+   /* start mobile & web app design  */
+     .services--section .services__content-box .custom_services__sub-main table thead th:not(:first-child) {
+       font-size: 1rem;
+   }
+   /* end mobile &  web app design  */
+   /* start web design  */
+     .services--section .services__sub-main .services__sub-content .services__price--tag span:last-child {
+         font-size: 3rem;
+     }
+     .services--section .services__sub-main .services__sub-content h4 {
+     font-size: 2.2rem;
+     font-weight: bold;
+     color: rgb(241, 241, 241);
+     text-align: center;
+     }
+   /* end web design  */
+   /* start cctv  */
+     .services--section .order__project-message .project__message-content .message__content:last-child p a {
+       padding: 0.9rem 1rem;
+   }
+   /* end cctv  */
+
+     /* ******* End Services *******  */
+
+     /* ******* Start Softwares *******  */
+     
+     /* ******* End Softwares *******  */
+
+     /* ******* Start Company *******  */
+     
+     /* ******* End Compamy *******  */
+
+     /* ******* Start footer*****  */
+     .footer-bottom ul li a{
+          font-size: 8px;
+     }
+     /* ******* End footer*****  */
+}
+@media(max-width: 602px){
+     /* ******* Start index *******  */
+     #filters{
+          display: flex;
+          flex-wrap: wrap;
+     }
+     /* ******* End index *******  */
+}
+@media(max-width: 768px) {
+
+     /* style for header section start */
+
+     /* Style for Header Top */
+
+     .header-top .header-top-item {
+          padding: 5px 0;
+     }
+
+     .header-top i,
+     .header-top a,
+     .header-top p {
+          font-size: 10px;
+     }
+
+     /* style for header bottom */
+
+     .navbar-nav .nav-link {
+          font-size: 14px;
+          padding: 3px;
+     }
+
+     .navbar-nav li a {
+          font-size: 13px;
+     }
+
+     .navbar-nav li a:hover,
+     .navbar-nav li a:active,
+     .navbar-nav li a.show {
+          transform: scale(1.01);
+          -webkit-transform: scale(1.01);
+          -moz-transform: scale(1.01);
+          -ms-transform: scale(1.01);
+          -o-transform: scale(1.01);
+     }
+
+     .multiple-dropdown-main {
+          flex-direction: column;
+          display: flex !important;
+     }
+     /* ******* Start services__content-box *******  */
+     
+     /* ******* End services__content-box *******  */
+
+     /* style for header end */
+
+     /* ******* Start Services *******  */
+     
+     /* start mobile app dev  */
+     .mobile-app-devs{
+       display: flex;
+       flex-direction: row;
+     }
+   /* end mobile add dev  */
+
+     /* ******* End Services *******  */
+
+     /* ******* Start Softwares *******  */
+     
+     /* ******* End Softwares *******  */
+
+     /* ******* Start Company *******  */
+     
+     /* ******* End Compamy *******  */
+
+     /* ******* Start index *******  */
+     .play-store{
+          height: 70px;
+          width: 250px;
+      }
+      .text-left {
+          text-align: center !important;
+      }
+      .text-right {
+          text-align: center !important;
+      }
+      .apple-store{
+          height: 70px;
+          width: 250px;
+      }
+     /* ******* End index *******  */
+
+     /* style for footer section start */
+
+     .footer-section {
+          font-size: 12px;
+     }
+
+     .footer-title {
+          font-size: 16px;
+     }
+
+     .footer-section ul li {
+          padding: 4px 0;
+     }
+
+     .footer-bottom ul li a {
+          padding: 6px;
+          font-size: 12px;
+     }
+
+     .copyright p {
+          font-size: 11px;
+     }
+
+     .copyright .link a {
+          padding: 2px 5px;
+          font-size: 16px;
+     }
+
+     /* style for footer section end */
+
+     /* Style for Services Section Start */
+
+     .feature-section .feature-div p {
+          font-size: 14px;
+     }
+
+     /* Style for Services Section End */
+
+     /* Style for Who we are Section Start */
+
+     .who-we-are-div .text-title {
+          font-size: 26px;
+     }
+
+     .who-we-are-div p {
+          font-size: 15px;
+     }
+
+     /* Style for Who we are Section End */
+
+     /* Style for Course Section Start */
+
+     .course-section .text-title {
+          font-size: 24px;
+     }
+
+     .course-section p,
+     .course-section a {
+          font-size: 14px;
+     }
+
+     .phils-des h4 {
+          font-size: 20px;
+     }
+
+     /* Style for Course Section End */
+
+     /* Style for Typed Section Start */
+
+     .typed-section h3 {
+          font-size: 24px;
+     }
+
+     /* Style for Typed Section End */
+
+     /* Style For App Section Start */
+
+     .app-section .app-icon-link h6{
+          font-size: 14px;
+     }
+     .app-section .app-icon-link p{
+          font-size: 12px;
+          margin: 0;
+     }
+
+     .app-section .app-icon-link a{
+          font-size: 9px;
+     }
+     /* Style For App Section End */
+}
+
+@media (max-width: 480px) {
+
+     /* style for header section start */
+
+     /* Style for Header Top */
+
+     .header-top .header-top-item {
+          padding: 2px 0;
+     }
+
+     .header-top i,
+     .header-top a,
+     .header-top p {
+          font-size: 8px;
+     }
+
+     .header-top .header-top-item a img {
+          height: 10px;
+          width: 12px;
+     }
+
+     /* style for header bottom */
+
+     .navbar-nav .nav-link {
+          font-size: 12px;
+          padding: 2px;
+     }
+
+     .navbar-nav li a {
+          font-size: 11px;
+     }
+
+     /* style for header section end */
+
+     /* ******* Start Services *******  */
+
+     /* ******* End Services *******  */
+
+     /* ******* Start Softwares *******  */
+     
+     /* ******* End Softwares *******  */
+
+     /* ******* Start Company *******  */
+     
+     /* ******* End Compamy *******  */
+
+     /* style for footer section start */
+
+     .footer-section {
+          font-size: 10px;
+     }
+
+     .footer-title {
+          font-size: 12px;
+     }
+
+     .footer-section ul li {
+          padding: 2px 0;
+     }
+
+     .footer-bottom {
+          padding: 5px 0;
+     }
+
+     .footer-bottom .list-unstyled {
+          margin-bottom: 3px;
+     }
+
+     .footer-bottom ul li a {
+          padding: 2px;
+          font-size: 9px;
+     }
+
+     .footer-bottom .list-unstyled span {
+          display: none;
+     }
+
+     .copyright p {
+          font-size: 9px;
+     }
+
+     .copyright .link a {
+          padding: 2px 4px;
+          font-size: 12px;
+     }
+
+     /* style for footer section end */
+
+     /* Style for Services Section Start */
+
+     .feature-section .feature-div p {
+          font-size: 12px;
+     }
+
+     /* Style for Services Section End */
+
+     /* Style for Who we are Section Start */
+
+     .who-we-are {
+          padding: 1rem 0;
+     }
+
+     .who-we-are-div .text-title {
+          font-size: 22px;
+     }
+
+     .who-we-are-div p {
+          font-size: 12px;
+     }
+
+     /* Style for Who we are Section End */
+
+     /* Style for Course Section Start */
+     .course-section,
+     .Counselling-section {
+          padding: 1rem 0;
+     }
+
+     .course-section .text-title {
+          font-size: 20px;
+     }
+
+     .course-section p,
+     .course-section a {
+          font-size: 12px;
+          margin: 0;
+     }
+
+     .phils-des h4 {
+          font-size: 20px;
+     }
+
+     .phils-des a {
+          padding-top: 5px;
+     }
+
+     .tabs .link {
+          margin-top: 12px;
+     }
+
+     .tabs .link a {
+          font-size: 14px;
+     }
+
+     /* Style for Course Section End */
+
+     /* Style for Typed Section Start */
+
+     .typed-section h3 {
+          font-size: 18px;
+     }
+
+     /* Style for Typed Section End */
+
+     /* Style for Innovative Section Start */
+
+     .innovative-section ul li a {
+          font-size: 14px;
+     }
+
+     /* Style for Innovative Section End */
+}
